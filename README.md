@@ -4,7 +4,7 @@ Aplikasi pendeteksi dan penerjemah Sengkalan (Sandi Angka Jawa) berbasis Web. Pr
 
 ## 👥 Tim Pengembang
 * **Frontend & UI/UX Design**: Sukmawati (React, Tailwind CSS, Figma)
-* **Backend & AI Model**: Huda ()
+* **Backend & AI Model**: Misbahul Huda ()
 
 ## 🛠️ Tech Stack
 * **Frontend**: React.js, Vite, Tailwind CSS v4
